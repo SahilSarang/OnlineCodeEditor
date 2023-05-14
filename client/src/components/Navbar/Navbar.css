@@ -1,0 +1,30 @@
+.main-nav{
+    min-height: 50px;
+    width: 100%;
+    margin: 0% auto;
+    border-top: solid  4px #f319e1;
+    box-shadow: 0px 1px 5px #00000033;
+    z-index: 5;
+    top: 0%;
+    left: 0%;
+    background-color: #edf5ee;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    display:flex
+}
+
+.navbar{
+    height: 100%;
+    min-width: 85%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-logo{
+    display: flex;
+    align-items: center;
+    padding: 5px 25px;
+    font: oblique small-caps bold 20px/30px Georgia, serif;
+}
